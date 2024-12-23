@@ -25,7 +25,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nivedck/Discord_Countdown.git
-   cd countdown-eve-bot
+   cd Discord_Countdown
    ```
 2. Install dependencies:
    ```bash
